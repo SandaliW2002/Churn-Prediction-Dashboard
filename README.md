@@ -1,22 +1,35 @@
-# Churn-Prediction-Dashboard
-This project is a Churn Prediction Dashboard built using Power BI. It is designed to help businesses identify customers at risk of leaving and make data-driven decisions to improve customer retention.
+📊 Churn Prediction Dashboard
 
-Features
+This project is a Churn Prediction Dashboard built using Power BI, designed to help businesses identify customers at risk of leaving and make data-driven decisions to improve customer retention. By transforming raw data into interactive visual insights, this dashboard supports proactive strategies to keep customers engaged and reduce churn rates.
 
-Data Cleaning & Handling Missing Values: Ensures the dataset is accurate and ready for analysis.
+✨ Features
 
-Interactive Dashboard: Includes slicers, KPIs, and visualizations for easy exploration of customer behavior.
+Data Cleaning & Handling Missing Values
+Before analysis, the dataset is carefully cleaned to handle missing or inconsistent values, ensuring accurate and reliable insights. Proper data preprocessing forms the foundation for meaningful visualization and analysis.
 
-Actionable Insights: Highlights trends and patterns to support proactive retention strategies.
+Interactive Dashboard
+The dashboard includes slicers, KPIs, and various visualizations to explore customer behavior across multiple dimensions. Users can easily filter data and gain insights into patterns and trends.
 
-Skills & Tools
+Actionable Insights
+By highlighting key patterns and trends, the dashboard provides actionable insights to help businesses predict churn and make proactive decisions for customer retention.
 
-Power BI
+User-Friendly Design
+Designed with a focus on clarity and interactivity, the dashboard is easy to navigate, making complex data accessible even for non-technical users.
 
-Data Cleaning & Preprocessing
+🛠 Skills & Tools
 
-Data Visualization
+Power BI – For building interactive dashboards and visualizations
 
-Business Intelligence
+Data Cleaning & Preprocessing – Handling missing values and preparing data for analysis
 
-This dashboard demonstrates how raw data can be transformed into meaningful insights to drive business decisions.
+Data Visualization – Transforming raw data into meaningful charts and KPIs
+
+Business Intelligence – Leveraging insights to support decision-making
+
+💡 Objective
+
+The main goal of this project is to demonstrate how raw customer data can be transformed into actionable insights using Power BI. By tracking customer behavior and identifying potential churn, businesses can take informed steps to improve retention and optimize strategies.
+
+🚀 Outcome
+
+After completing this dashboard, I gained hands-on experience in data cleaning, dashboard design, and business-focused data visualization, reinforcing my ability to turn complex datasets into insightful, decision-ready dashboards.
