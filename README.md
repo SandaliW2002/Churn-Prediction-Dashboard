@@ -1,4 +1,4 @@
-📊 Churn Prediction Dashboard
+#Churn_Prediction_Dashboard
 
 This project is a Churn Prediction Dashboard built using Power BI, designed to help businesses identify customers at risk of leaving and make data-driven decisions to improve customer retention. By transforming raw data into interactive visual insights, this dashboard supports proactive strategies to keep customers engaged and reduce churn rates.
 
